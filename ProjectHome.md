@@ -1,0 +1,1 @@
+.Net library used as part of Fb2ePub project ( http://www.fb2epub.net )
